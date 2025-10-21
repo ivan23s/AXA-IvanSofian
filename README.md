@@ -1,10 +1,10 @@
 # AXA-IvanSofian
 AXA-IvanSofian untuk AXA - .NET Developer Technical Assessment for MTC
 
-download file AXA-IvanSofian-main.zip > https://github.com/ivan23s/AXA-IvanSofian
+download file > (AXA-IvanSofian-main.zip) > https://github.com/ivan23s/AXA-IvanSofian
 Extract >
-Nama file projek = Axa_Mandiri2.rar  
-nama file .SLN = Axa_Mandiri.sln > buka pakai Visual Studio 2022.
+Nama file projek = (Axa_Mandiri2.rar)  
+nama file .SLN = (Axa_Mandiri.sln) > buka pakai Visual Studio 2022.
 Visual Studio 2022 > Run F5 Debug.
 
 
