@@ -1,7 +1,12 @@
 # AXA-IvanSofian
 AXA-IvanSofian untuk AXA - .NET Developer Technical Assessment for MTC
 
-Visual Studio 2022 > Run F5 Debug
+download file AXA-IvanSofian-main.zip > https://github.com/ivan23s/AXA-IvanSofian
+Extract >
+Nama file projek = Axa_Mandiri2.rar  
+nama file .SLN = Axa_Mandiri.sln > buka pakai Visual Studio 2022.
+Visual Studio 2022 > Run F5 Debug.
+
 
 - README - Ivan Sofian .NET Core 8 REST API JSON - Memory Only (Tanpa Database)
 1. GET All Customers (Via Web Browser)
